@@ -42,7 +42,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 ### Example of transformation
 
-![solidWhiteCurve](https://github.com/taris123/SDC-P1/tree/master/test_images/solidWhiteCurve.jpg)
+![solidWhiteCurve](./test_images/solidWhiteCurve.jpg)
 
 
 ### 2. Identify potential shortcomings with your current pipeline
