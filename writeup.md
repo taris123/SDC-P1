@@ -43,7 +43,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 ### Example of transformation
 <div style="inline-block;>
 <img src="./test_images/solidWhiteCurve.jpg" width="200" />
-<img src="./processed_images/gray_solidWhiteCurve.jpg" width="200 /?
+<img src="./processed_images/gray_solidWhiteCurve.jpg" width="200" />
 </div>
 
 
