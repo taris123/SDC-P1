@@ -41,8 +41,10 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 - Performing a linear regression to fit a line from the top of the region to the bottom of the region (I implemented another check by not drawing lines whose r**2 value was low)
 
 ### Example of transformation
-
+<div style="inline-block;>
 <img src="./test_images/solidWhiteCurve.jpg" width="200" />
+<img src="./processed_images/gray_solidWhiteCurve.jpg" width="200 /?
+</div>
 
 
 ### 2. Identify potential shortcomings with your current pipeline
