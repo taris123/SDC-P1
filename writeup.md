@@ -16,7 +16,7 @@ The goals / steps of this project are the following:
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
 
 
-My pipeline consisted of 5 steps:
+Thepipeline consisted of 5 steps as outlined in the first week of class:
 - Convert image to Grayscale
 
 - Apply Gaussian smoothing
