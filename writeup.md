@@ -8,9 +8,6 @@ The goals / steps of this project are the following:
 * Reflect on your work in a written report
 
 
-[//]: # (Image References)
-
-[image1]: ./test_images/solidWhiteCurve.jpg "Grayscale"
 
 ---
 
@@ -44,6 +41,10 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 <div style="inline-block;">
 <img src="./test_images/solidWhiteCurve.jpg" width="200" />
 <img src="./processed_images/gray_solidWhiteCurve.jpg" width="200" />
+<img src="./processed_images/canny_solidWhiteCurve.jpg" width="200" />
+<img src="./processed_images/masked_solidWhiteCurve.jpg" width="200" />
+<img src="./processed_images/hough_solidWhiteCurve.jpg" width="200" />
+<img src="./processed_images/solidWhiteCurve.jpg" width="200" />
 </div>
 
 
