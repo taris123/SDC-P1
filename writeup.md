@@ -42,7 +42,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 ### Example of transformation
 
-![solidWhiteCurve][image1]
+<img src="./test_images/solidWhiteCurve.jpg" width="200" />
 
 
 ### 2. Identify potential shortcomings with your current pipeline
