@@ -10,7 +10,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[image1]: ./test_images/solidWhiteCurve.jpg "Grayscale"
 
 ---
 
@@ -42,7 +42,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 ### Example of transformation
 
-![solidWhiteCurve](https://github.com/taris123/SDC-P1/tree/master/test_images/solidWhiteCurve.jpg)
+<img src="./test_images/solidWhiteCurve.jpg" width="200" />
 
 
 ### 2. Identify potential shortcomings with your current pipeline
